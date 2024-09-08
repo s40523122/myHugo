@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>tags on Victor on Software</title>
-        <link>https://s40523122.github.io/myHugo/public/tags/</link>
+        <link>http://localhost:1313/myHugo/public/tags/</link>
         <description>Recent content in tags on Victor on Software</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-TW</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://s40523122.github.io/myHugo/public/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/myHugo/public/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>css</title>
-        <link>https://s40523122.github.io/myHugo/public/tags/css/</link>
+        <link>http://localhost:1313/myHugo/public/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/public/tags/css/</guid>
+        <guid>http://localhost:1313/myHugo/public/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>html</title>
-        <link>https://s40523122.github.io/myHugo/public/tags/html/</link>
+        <link>http://localhost:1313/myHugo/public/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/public/tags/html/</guid>
+        <guid>http://localhost:1313/myHugo/public/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>markdown</title>
-        <link>https://s40523122.github.io/myHugo/public/tags/markdown/</link>
+        <link>http://localhost:1313/myHugo/public/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/public/tags/markdown/</guid>
+        <guid>http://localhost:1313/myHugo/public/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>themes</title>
-        <link>https://s40523122.github.io/myHugo/public/tags/themes/</link>
+        <link>http://localhost:1313/myHugo/public/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/public/tags/themes/</guid>
+        <guid>http://localhost:1313/myHugo/public/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>privacy</title>
-        <link>https://s40523122.github.io/myHugo/public/tags/privacy/</link>
+        <link>http://localhost:1313/myHugo/public/tags/privacy/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/public/tags/privacy/</guid>
+        <guid>http://localhost:1313/myHugo/public/tags/privacy/</guid>
         <description></description>
         </item>
         <item>
         <title>shortcodes</title>
-        <link>https://s40523122.github.io/myHugo/public/tags/shortcodes/</link>
+        <link>http://localhost:1313/myHugo/public/tags/shortcodes/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/public/tags/shortcodes/</guid>
+        <guid>http://localhost:1313/myHugo/public/tags/shortcodes/</guid>
         <description></description>
         </item>
         <item>
         <title>tag with whitespaces</title>
-        <link>https://s40523122.github.io/myHugo/public/tags/tag-with-whitespaces/</link>
+        <link>http://localhost:1313/myHugo/public/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/public/tags/tag-with-whitespaces/</guid>
+        <guid>http://localhost:1313/myHugo/public/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>text</title>
-        <link>https://s40523122.github.io/myHugo/public/tags/text/</link>
+        <link>http://localhost:1313/myHugo/public/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/public/tags/text/</guid>
+        <guid>http://localhost:1313/myHugo/public/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>emoji</title>
-        <link>https://s40523122.github.io/myHugo/public/tags/emoji/</link>
+        <link>http://localhost:1313/myHugo/public/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/public/tags/emoji/</guid>
+        <guid>http://localhost:1313/myHugo/public/tags/emoji/</guid>
         <description></description>
         </item>
         

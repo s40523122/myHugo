@@ -2,91 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://s40523122.github.io/myHugo/public/</loc>
+    <loc>https://s40523122.github.io/myHugo/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/categories/</loc>
+    <loc>https://s40523122.github.io/myHugo/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/posts/chinese-test/test-chinese/</loc>
+    <loc>https://s40523122.github.io/myHugo/posts/chinese-test/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/posts/</loc>
+    <loc>https://s40523122.github.io/myHugo/posts/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/categories/test/</loc>
+    <loc>https://s40523122.github.io/myHugo/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://s40523122.github.io/myHugo/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/page/archives/</loc>
+    <loc>https://s40523122.github.io/myHugo/page/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/page/</loc>
+    <loc>https://s40523122.github.io/myHugo/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/tags/css/</loc>
+    <loc>https://s40523122.github.io/myHugo/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/tags/html/</loc>
+    <loc>https://s40523122.github.io/myHugo/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/tags/markdown/</loc>
+    <loc>https://s40523122.github.io/myHugo/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/posts/markdown-syntax/</loc>
+    <loc>https://s40523122.github.io/myHugo/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/categories/syntax/</loc>
+    <loc>https://s40523122.github.io/myHugo/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/tags/</loc>
+    <loc>https://s40523122.github.io/myHugo/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/tags/themes/</loc>
+    <loc>https://s40523122.github.io/myHugo/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/categories/themes/</loc>
+    <loc>https://s40523122.github.io/myHugo/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/tags/privacy/</loc>
+    <loc>https://s40523122.github.io/myHugo/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/posts/rich-content/</loc>
+    <loc>https://s40523122.github.io/myHugo/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/tags/shortcodes/</loc>
+    <loc>https://s40523122.github.io/myHugo/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/posts/placeholder-text/</loc>
+    <loc>https://s40523122.github.io/myHugo/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/tags/tag-with-whitespaces/</loc>
+    <loc>https://s40523122.github.io/myHugo/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/categories/test-with-whitespaces/</loc>
+    <loc>https://s40523122.github.io/myHugo/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/tags/text/</loc>
+    <loc>https://s40523122.github.io/myHugo/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/posts/math-typesetting/</loc>
+    <loc>https://s40523122.github.io/myHugo/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/tags/emoji/</loc>
+    <loc>https://s40523122.github.io/myHugo/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/posts/emoji-support/</loc>
+    <loc>https://s40523122.github.io/myHugo/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/page/about/</loc>
+    <loc>https://s40523122.github.io/myHugo/page/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/_index.zh-cn/</loc>
+    <loc>https://s40523122.github.io/myHugo/_index.zh-cn/</loc>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/page/links/</loc>
+    <loc>https://s40523122.github.io/myHugo/page/links/</loc>
   </url><url>
-    <loc>https://s40523122.github.io/myHugo/public/page/search/</loc>
+    <loc>https://s40523122.github.io/myHugo/page/search/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL = 'https://s40523122.github.io/myHugo/'
+baseURL = 'https://s40523122.github.io/myHugo/public'
 languageCode = 'zh-TW'
 paginate = 10
 title = 'Victor on Software'
@@ -23,7 +23,7 @@ subtitle = "Software engineering, security, and related topics"
 [params.sidebar.avatar]
 enabled = true
 local = true
-src = "public/img/avatar.png"
+src = "img/avatar.png"
 
 ## Widgets
 [[params.widgets.homepage]]

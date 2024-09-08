@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>categories on Victor on Software</title>
-        <link>https://s40523122.github.io/myHugo/categories/</link>
+        <link>https://s40523122.github.io/myHugo/public/categories/</link>
         <description>Recent content in categories on Victor on Software</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-TW</language>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://s40523122.github.io/myHugo/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://s40523122.github.io/myHugo/public/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
-        <link>https://s40523122.github.io/myHugo/categories/test/</link>
+        <link>https://s40523122.github.io/myHugo/public/categories/test/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/categories/test/</guid>
-        <description>&lt;img src="https://s40523122.github.io/myHugo/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://s40523122.github.io/myHugo/public/categories/test/</guid>
+        <description>&lt;img src="https://s40523122.github.io/myHugo/public/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         <item>
         <title>测试</title>
-        <link>https://s40523122.github.io/myHugo/categories/%E6%B5%8B%E8%AF%95/</link>
+        <link>https://s40523122.github.io/myHugo/public/categories/%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>https://s40523122.github.io/myHugo/public/categories/%E6%B5%8B%E8%AF%95/</guid>
         <description></description>
         </item>
         <item>
         <title>syntax</title>
-        <link>https://s40523122.github.io/myHugo/categories/syntax/</link>
+        <link>https://s40523122.github.io/myHugo/public/categories/syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/categories/syntax/</guid>
+        <guid>https://s40523122.github.io/myHugo/public/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>themes</title>
-        <link>https://s40523122.github.io/myHugo/categories/themes/</link>
+        <link>https://s40523122.github.io/myHugo/public/categories/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/categories/themes/</guid>
+        <guid>https://s40523122.github.io/myHugo/public/categories/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Test with whitespaces</title>
-        <link>https://s40523122.github.io/myHugo/categories/test-with-whitespaces/</link>
+        <link>https://s40523122.github.io/myHugo/public/categories/test-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://s40523122.github.io/myHugo/categories/test-with-whitespaces/</guid>
+        <guid>https://s40523122.github.io/myHugo/public/categories/test-with-whitespaces/</guid>
         <description></description>
         </item>
         

@@ -1,0 +1,5 @@
+# 使用的主題
+theme = "Stack"
+baseURL = 'http://localhost:1313/'
+languageCode = 'zh-TW'
+title = 'My New Hugo Site'

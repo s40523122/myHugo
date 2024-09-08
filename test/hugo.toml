@@ -1,0 +1,5 @@
+# 使用的主題
+theme = "Stack"
+baseURL = 'https://s40523122.github.io/myHugo/'
+languageCode = 'zh-TW'
+title = 'My New Hugo Site'

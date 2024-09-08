@@ -1,0 +1,42 @@
+baseURL = 'https://s40523122.github.io/myHugo/'
+languageCode = 'zh-TW'
+paginate = 10
+title = 'Victor on Software'
+theme = "hugo-theme-stack"
+enableRobotsTXT = false
+capitalizeListTitles = false
+
+[services]
+[services.googleAnalytics]
+ID = 'G-1XV381YSQ8'
+
+[params]
+description = "Software engineering, security, and related topics. Currently building security telemetry and MDM at Fleet Device Management."
+mainSections = ["posts"]
+
+[params.article]
+headingAnchor = true
+
+[params.sidebar]
+subtitle = "Software engineering, security, and related topics"
+
+[params.sidebar.avatar]
+enabled = true
+local = true
+src = "img/avatar.png"
+
+## Widgets
+[[params.widgets.homepage]]
+type = "search"
+
+[[params.widgets.homepage]]
+type = "categories"
+
+[params.widgets.homepage.params]
+limit = 10
+
+[[params.widgets.homepage]]
+type = "tag-cloud"
+
+[params.widgets.homepage.params]
+limit = 20
